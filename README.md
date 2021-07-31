@@ -1,6 +1,6 @@
 # React Portfolio
 
-Check it live here -   
+Check it live here -  https://purnachandraraok.github.io/portfolio/#/
 
 ## Libraries used
 
